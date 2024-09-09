@@ -12,7 +12,7 @@ Solving following leetcode questions:
 * Robot Return to Origin
 * Minimum Index Sum of Two Lists
 * Reverse Words in a String III
-* * Student Attendance Record I
+* Student Attendance Record I
 * Reverse String II
 * Longest Uncommon Subsequence I
 * Detect Capital
@@ -40,8 +40,8 @@ Solving following leetcode questions:
 * Length of Last Word
 * Find the Index of the First Occurrence in a String
 * Valid Parentheses
-Longest Common Prefix
-Roman to Integer
-Positions of Large Groups
-Goat Latin
-Shortest Distance to a Character
+* Longest Common Prefix
+* Roman to Integer
+* Positions of Large Groups
+* Goat Latin
+* Shortest Distance to a Character
